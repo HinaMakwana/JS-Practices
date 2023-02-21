@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    margin-top: 100px;
+}
+input {
+    height: 30px;
+    width: 30vw;
+    margin-top: 50px;
+    margin-left: 35%;
+    position: relative;
+}
+#btn {
+    height: 30px;
+    width: 10vw;
+    position: absolute;
+    top: 30%;
+    left: 45%;
+}
+p {
+    font-size: 30px;
+    text-align: center;
+    padding-top: 30px;
+}
